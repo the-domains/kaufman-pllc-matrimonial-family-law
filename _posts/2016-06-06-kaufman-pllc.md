@@ -16,14 +16,14 @@ description: >-
   Appellate Law Committees), the New York Women's Bar Association and the
   Assocaition of Family and Conciliation Courts. Seth completed the ABA Family
   Law Trial Advocacy Program in 2006 and was a recipient of the 2003 Commitment
-  to Justice Award from inMotion, Inc. (now known as Her Justice).   Seth is a
+  to Justice Award from inMotion, Inc. (now known as Her Justice).Seth is a
   native New Yorker and proud father of two wonderful children.
-dateModified: '2016-06-06T01:49:30.412Z'
-datePublished: '2016-06-06T01:49:52.655Z'
+dateModified: '2016-06-06T01:52:08.541Z'
+datePublished: '2016-06-06T01:52:08.690Z'
 title: Kaufman PLLC
 author: []
-starred: false
 sourcePath: _posts/2016-06-06-kaufman-pllc.md
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
