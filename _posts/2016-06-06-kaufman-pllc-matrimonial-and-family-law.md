@@ -1,22 +1,22 @@
 ---
-author: []
+datePublished: '2016-06-06T01:52:03.829Z'
+sourcePath: _posts/2016-06-06-kaufman-pllc-matrimonial-and-family-law.md
+isBasedOnUrl: 'http://www.smklaw.net/'
+keywords: []
 related: []
+author: []
+dateModified: '2016-06-06T01:52:03.617Z'
+title: Matrimonial and Family Law Practice
+app_links: []
 publisher:
   url: 'http://www.smklaw.net'
   name: Kaufman PLLC Matrimonial and Family Law
   favicon: 'https://static.parastorage.com/client/pfavico.ico'
   domain: www.smklaw.net
-keywords: []
 description: >-
   Domestic Relations Attorney for Divorce, Child Custody, Visitation, Child
   Support, Prenuptial Agreements, Appeals
-app_links: []
-isBasedOnUrl: 'http://www.smklaw.net/'
-title: Kaufman PLLC Matrimonial and Family Law
-datePublished: '2016-06-06T01:45:28.064Z'
-dateModified: '2016-06-06T01:42:43.079Z'
-starred: false
-sourcePath: _posts/2016-06-06-kaufman-pllc-matrimonial-and-family-law.md
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
@@ -24,4 +24,10 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Kaufman PLLC Matrimonial and Family Law</h1><p>Domestic Relations Attorney for Divorce, Child Custody, Visitation, Child Support, Prenuptial Agreements, Appeals</p></article>
+<article style=""><h1>Matrimonial and Family Law Practice</h1></article>
+
+* Divorce
+* Child Custody/Visitation
+* Child Support
+* Prenuptial Agreements
+* Appeals
