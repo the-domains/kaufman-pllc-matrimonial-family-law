@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-06-06T01:52:03.829Z'
+datePublished: '2016-06-06T01:52:05.713Z'
 sourcePath: _posts/2016-06-06-kaufman-pllc-matrimonial-and-family-law.md
 isBasedOnUrl: 'http://www.smklaw.net/'
 keywords: []
 related: []
 author: []
-dateModified: '2016-06-06T01:52:03.617Z'
+dateModified: '2016-06-06T01:52:05.482Z'
 title: Matrimonial and Family Law Practice
 app_links: []
 publisher:
@@ -16,7 +16,7 @@ publisher:
 description: >-
   Domestic Relations Attorney for Divorce, Child Custody, Visitation, Child
   Support, Prenuptial Agreements, Appeals
-starred: true
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
